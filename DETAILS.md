@@ -46,9 +46,12 @@ riders about possible collisions.
   - 🚨 Buzzer alerts rider
   - 🔴 LED glows during braking
   - 📍 GPS sends location in emergency
-  - 👉 Smart systems can even detect vehicles approaching from behind and warn
-    the rider automatically.
-  - 🔥 Advanced Features (to impress teachers)
+
+> 👉 Smart systems can even detect vehicles approaching from behind and warn the
+> rider automatically.
+
+### 🔥 Advanced Features (to impress teachers)
+
 - Bluetooth mobile app connection
 - Automatic turn indicators
 - Night mode (auto lights ON)
